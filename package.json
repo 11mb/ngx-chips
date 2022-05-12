@@ -14,7 +14,14 @@
     "prepare": "npm run build"
   },
   "files": [
-    "dist"
+    "dist/",
+    "dist/**/*.mjs",
+    "dist/**/*.map",
+    "dist/**/*.json",
+    "dist/**/*.md",
+    "dist/**/*.ts",
+    "dist/**/*.js",
+    "dist/**/*.html"
   ],
   "author": {
     "name": "Giancarlo Buomprisco",
