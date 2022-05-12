@@ -21,7 +21,9 @@
     "dist/**/*.md",
     "dist/**/*.ts",
     "dist/**/*.js",
-    "dist/**/*.html"
+    "dist/**/*.html",
+    "dist/fesm2015/ngx-chips.mjs",
+    "dist/fesm2015/ngx-chips.map"
   ],
   "author": {
     "name": "Giancarlo Buomprisco",
