@@ -14,7 +14,8 @@
     "prepare": "npm run build"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "dist/**/*"
   ],
   "author": {
     "name": "Giancarlo Buomprisco",
